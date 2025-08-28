@@ -2,13 +2,13 @@
 
 💻 Junior Full Stack Web Developer con formazione intensiva in PHP, Laravel, React, Node.js, Express, JavaScript, HTML, CSS e MySQL presso Boolean.  
 🚀 Creo applicazioni web moderne, responsive e funzionali, con attenzione all’usabilità e alla qualità del codice.  
-💡 Amo affrontare sfide complesse, apprendere continuamente e trovare soluzioni creative.
+💡 Mi piace affrontare sfide complesse, apprendere continuamente e trovare soluzioni creative.
 
 ---
 
 ## 🌐 Contatti
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vincenzo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vincenzo-terracciano-0a6676154/)
-[![Email](https://img.shields.io/badge/Email-vincenzo@example.com-red?style=for-the-badge&logo=gmail)](mailto:vincenzo.terracciano97@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vincenzo-terracciano-0a6676154/)
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vincenzo.terracciano97@gmail.com)
 
 ---
 
@@ -25,7 +25,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Database & Backend
+### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Dev Tools
@@ -39,6 +39,5 @@
 
 ## 📊 GitHub Stats
 ![Vincenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=vincenzo-terracciano&show_icons=true&theme=radical)
-
-## 📊 GitHub Stats
-![Vincenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuo-github&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=vincenzo-terracciano&theme=radical&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincenzo-terracciano&layout=compact&theme=radical)  
